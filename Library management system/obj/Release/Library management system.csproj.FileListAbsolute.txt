@@ -1,0 +1,59 @@
+E:\final project\Library management system\Library management system\bin\Library management system.dll.config
+E:\final project\Library management system\Library management system\bin\Library management system.dll
+E:\final project\Library management system\Library management system\bin\Library management system.pdb
+E:\final project\Library management system\Library management system\bin\roslyn\csc.exe
+E:\final project\Library management system\Library management system\bin\roslyn\csc.exe.config
+E:\final project\Library management system\Library management system\bin\roslyn\csc.rsp
+E:\final project\Library management system\Library management system\bin\roslyn\csi.exe
+E:\final project\Library management system\Library management system\bin\roslyn\csi.exe.config
+E:\final project\Library management system\Library management system\bin\roslyn\csi.rsp
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.Managed.Core.targets
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\final project\Library management system\Library management system\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.AppContext.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Collections.Immutable.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Console.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Globalization.Calendars.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.IO.Compression.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.IO.FileSystem.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Net.Http.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Net.Sockets.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Reflection.Metadata.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.ValueTuple.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Xml.XmlDocument.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Xml.XPath.dll
+E:\final project\Library management system\Library management system\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\final project\Library management system\Library management system\bin\roslyn\vbc.exe
+E:\final project\Library management system\Library management system\bin\roslyn\vbc.exe.config
+E:\final project\Library management system\Library management system\bin\roslyn\vbc.rsp
+E:\final project\Library management system\Library management system\bin\roslyn\VBCSCompiler.exe
+E:\final project\Library management system\Library management system\bin\roslyn\VBCSCompiler.exe.config
+E:\final project\Library management system\Library management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\final project\Library management system\Library management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\final project\Library management system\Library management system\obj\Release\Library management system.csproj.AssemblyReference.cache
+E:\final project\Library management system\Library management system\obj\Release\Library management system.csproj.CoreCompileInputs.cache
+E:\final project\Library management system\Library management system\obj\Release\Library management system.csproj.CopyComplete
+E:\final project\Library management system\Library management system\obj\Release\Library management system.dll
+E:\final project\Library management system\Library management system\obj\Release\Library management system.pdb
